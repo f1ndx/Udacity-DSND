@@ -1,4 +1,4 @@
-# Project Image Classifier Project
+# Image Classifier Project
 **Summary:** In this project, I train an image classifier to recognize different species of flowers using PyTorch. The Jupyter notebook builds and trains a deep neural network on a flower data set (data not included here), which is then converted into an application that others can use via the predict.py and train.py scripts.
 
 The Jupyter notebook is broken down into the following main steps:

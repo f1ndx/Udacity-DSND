@@ -8,12 +8,11 @@ Prior to applying the machine learning methods, I had to assess and clean the da
 
 ---
 The following libraries were used in this project:
-
-NumPy
-pandas
-Sklearn / scikit-learn
-Matplotlib (for data visualization)
-Seaborn (for data visualization)
+* NumPy
+* pandas
+* Sklearn / scikit-learn
+* Matplotlib (for data visualization)
+* Seaborn (for data visualization)
 
 ### The Data
 * Udacity_AZDIAS_Subset.csv (not included here): Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).

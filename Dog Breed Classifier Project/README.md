@@ -66,12 +66,6 @@ This project is divided into two main parts:
 * Visualization: matplotlib
 * Bottleneck features for InceptionV3: (here)[https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz]
 
-Additional python packages needed for the notebook code are included in the requirements.txt file.
-
-The packages can be installed by typing the following into your terminal (on a MacOS/Linux system) once you're in the directory of the repo:
-
-`pip install -r requirements.txt`
-
 
 ### Instructions:<a name="instructions"></a>
 

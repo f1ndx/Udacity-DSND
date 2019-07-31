@@ -32,17 +32,13 @@ This repository includes all of the files that were necessary to code and deploy
 	- data_functions.py: helper functions to run the main prediction script
 	- predict_dog_breed.py: uses the above two scripts to make breed predictions
 
-The requirements.txt file includes all of the necessary libraries for this project.
-
 And finally, `run.py` is the script to run the actual web app in your browser.
 
 
 ## Installation <a name="installation"></a>
-This code runs using Python versions 3.\*. Additional python packages needed for this code are included in the requirements.txt file.
-
-The packages can be installed by typing the following into your terminal (on a MacOS/Linux system) once you're in the directory of the repo:
-
-`pip install -r requirements.txt`
+* Python 3.*
+* Main Libraries: numpy, pandas, scipy, keras, tensorflow, tqdm, opencv, Werkzeug
+* Web app: Flask
 
 To run the Flask app locally:
 

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">  
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="/static/style.css" rel="stylesheet">
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="/static/script.js"> </script>
+
+    <title>Dog Breed Classifier</title>
+  </head>
+  <body>
+    <div id="cover-spin">
+      <div class="loading-text">
+        Classifying...
+      </div>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top" style="background-color: #0489B1;">
+      <a class="navbar-brand" href="#">Image Classification App for Dogs and Humans</a>
+    </nav>
+    <div class="row">
+      <div class="col-2 mt-2"></div>  
+      <div class="col-10 mt-3">
+        <h1> Dog Breed Classifier </h1>
+        <h4> Predicts the most likely dog breed given an image of a dog or front-facing human:</h4>
+        <ul>
+          <li>If a dog is detected, it will predict the most likely breed.</li>
+          <li>If a human face is detected, it will determine the most resembling breed.</li>
+        </ul>
+        <div class="mt-3">
+          <div class="form-group">
+          <label>Upload Image</label>
+            <div class="input-group">
+              <span class="input-group-btn">
+                <span class="btn btn-default btn-file nopadding">
+                  <input type="file" id="imgInp" name="file">
+                  <input type="button" value="Predict" id="uploadFile">
+                </span>
+              </span>
+              <input type="text" class="form-control" readonly>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-5 mt-3">
+              <img id="img-upload"/>
+            </div>
+            <div class="col-md-5 mt-3" id="prediction-div">
+              <p id="prediction-text"></p>
+              <div class="container" style="height: 300px; width: 500px">
+                <img id="prediction-img" class="mx-auto d-block" style="height: 100%; width: 100%; object-fit: contain"/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

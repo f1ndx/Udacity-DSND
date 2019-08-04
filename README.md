@@ -12,4 +12,4 @@ Projects:
 
 ## Certificate
 
-![Cert](udacity_cert.pdf)
+![Cert](/udacity_cert.png)

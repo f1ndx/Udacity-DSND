@@ -12,4 +12,4 @@ Projects:
 
 ## Certificate
 
-![Cert](https://graduation-api.udacity.com/api/certificate/MKKL95F2/download)
+![Cert](/udacity_cert.png)

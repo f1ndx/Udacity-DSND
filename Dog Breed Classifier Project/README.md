@@ -75,6 +75,8 @@ Run one of the following commands:
 
 This will open the iPython Notebook software and project file in your browser.
 
+You can find the original instructions for this project in Udacity's dog-project repo [here](https://github.com/udacity/dog-project).
+
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 

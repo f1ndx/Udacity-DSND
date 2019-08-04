@@ -9,3 +9,7 @@ Projects:
 5. Data Engineering Practice Using Pipelines - [Disaster Response Pipeline Project](https://github.com/atanasoffa/Udacity-Projects/tree/master/Disaster%20Response%20Pipeline%20Project)
 6. Experimental Design & Recommendations - [Recommendations with IBM](https://github.com/atanasoffa/Udacity-Projects/tree/master/Recommendations%20with%20IBM)
 7. Capstone Project - [Dog Breed Classifier](https://github.com/atanasoffa/Udacity-Projects/tree/master/Dog%20Breed%20Classifier%20Project)
+
+##Certificate
+
+![Cert](udacity_cert.pdf)

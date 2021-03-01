@@ -9,7 +9,7 @@
 
 ## Project Summary <a name="summary"></a>
 
-For this project, I was interestested in performing EDA on Airbnb data (specificially for NYC from 2018 and 2019) to better understand the following:
+For this project, I was interested in performing EDA on Airbnb data (specificially for NYC from 2018 and 2019) to better understand the following:
 
 1. Which NYC areas have the most listings?
 2. What does availability for listings look like throughout the year?

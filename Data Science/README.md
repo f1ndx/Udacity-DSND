@@ -17,7 +17,7 @@ For this project, I was interested in performing EDA on Airbnb data (specificial
 3. How do listing prices vary by location?
 4. How do listing prices change throughout the year?
 
-You can view the in-depth analysis, code, and results in the notebook on nbviewer [here](https://nbviewer.jupyter.org/github/f1ndx/Udacity-DataScience-Nanodegree/blob/master/Airbnb%20NYC%20EDA/Airbnb_NYC_EDA.ipynb). The key analysis findings are also briefly discussed in [this](https://medium.com/@atanasoffa/exploring-airbnb-in-nyc-68a9ce0e0101) Medium post.
+You can view the in-depth analysis, code, and results in the notebook on nbviewer [here](https://nbviewer.jupyter.org/github/f1ndx/Udacity-DSND/blob/master/Data%20Science/Airbnb_NYC_EDA.ipynb). The key analysis findings are also briefly discussed in [this](https://medium.com/@atanasoffa/exploring-airbnb-in-nyc-68a9ce0e0101) Medium post.
 
 ## Data <a name="data"></a>
 

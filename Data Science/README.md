@@ -1,5 +1,6 @@
+# Exploring NYC Airbnb Data
 
-### Table of Contents
+## Table of Contents
 
 1. [Project Summary](#summary)
 2. [Data](#data)

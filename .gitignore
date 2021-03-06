@@ -1,4 +1,8 @@
 # OS generated files
 .DS_Store
+.DS_Store?
 ._*
 files.txt
+node_modules/
+__pycache__/
+*.py[cod]

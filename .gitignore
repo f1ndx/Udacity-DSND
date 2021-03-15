@@ -12,5 +12,6 @@ node_modules/
 # Misc files
 Deep\ Learning/workspace-utils.py
 */*.html
+*/data/flowers/
 */data/**/*.csv
 !*/data/disaster_*.csv

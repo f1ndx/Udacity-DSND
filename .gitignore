@@ -8,3 +8,8 @@ node_modules/
 # Jupyter notebooks
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# Misc files
+Deep\ Learning/workspace-utils.py
+**/*.html
+
